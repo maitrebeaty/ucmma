@@ -1,0 +1,28 @@
+
+body {
+  background-image: url("Images/background.jpg");
+}
+
+.logo {
+  width: 70%;
+}
+
+.thelogo {
+  float: left;
+  height: 61px;
+  margin-top: 35px;
+  width: 70%;
+}
+
+#header_content {
+  width: 30%;
+}
+#phone_container {
+  font-size: 26px;
+  font-weight: 600;
+  text-align: right;
+  text-transform: uppercase;
+  width: 20%;
+  color: white;
+  float: right;
+}
